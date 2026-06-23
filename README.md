@@ -26,5 +26,5 @@ Mantemos nossos repositórios principais protegidos e privados para garantir a c
 ### 📬 Contato & Conexões
 Quer transformar uma ideia em código ou otimizar a sua empresa? Entre em contato com o nosso time de engenharia:
 
-*   **E-mail Corporativo:** [omniatech@omniatechlabs.com.br](mailto:omniatech@omniatechlabs.com.br)
+*   **E-mail Corporativo:** [omnia.tech@omniatechlabs.com.br](mailto:omnia.tech@omniatechlabs.com.br)
 *   **Localização:** Fortaleza, Ceará, Brasil 🇧🇷
